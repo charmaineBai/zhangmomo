@@ -1,0 +1,42 @@
+#空格     一级标题 h1
+##空格     二级标题 h2
+###空格     三级标题 h3
+####空格     四级标题 h4
+#####空格     五级标题 h5
+
+这是段落p
+-空格 无序列表
+-空格 无序列表
+-空格 无序列表
+
+1.空格 有序列表
+2.空格 有序列表
+3.空格 有序列表
+
+显示js内容
+两个用\```\```包含
+\```
+var a = 1
+var b = 2
+\```
+
+一个用``包含
+`var a = 1`
+
+[链接文字](http://www.xixi.com)
+![](http://www.xxx.com/a.png)
+
+>引用
+
+| 表头 | 表头 | 表头 |
+| --- | --- | --- |
+| 内容 | 内容 | 内容 |
+| 内容 | 内容 | 内容 |
+
+转换库
+http://github.com/evilstreak/markdown-js
+
+Markdown官方网站：http://daringfireball.net/projects/markdown/ 
+推荐一款在线的Markdown编辑器：https://stackedit.io
+
+
